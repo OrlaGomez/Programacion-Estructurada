@@ -1,5 +1,5 @@
 # FRUIT SHOP COLLECTION $$$ 
-The objective of this program is help to the customers of a fruit store to see the menu, select the fruits that they want and the quantify in kilograms.
+The objective of this program is help to the customers of a fruit store to see the menu, select the fruits that they want and the quantify in kilograms to know how much they costs.
 
 ## How is going to work?
 You decide the number of the fruit, then the quantify of kilograms.The store has promotions, when you buy more than 10 kilograms.
